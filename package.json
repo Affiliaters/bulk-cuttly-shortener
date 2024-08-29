@@ -1,0 +1,35 @@
+{
+  "name": "bulk-cuttly-shortener",
+  "version": "1.0.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Affiliaters",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^3.2.6",
+    "axios": "^1.7.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Affiliaters/bulk-cuttly-shortener.git"
+  },
+  "keywords": [
+    "cuttly",
+    "cuttly shortener",
+    "url shortener",
+    "link shortener",
+    "cuttly api",
+    "bulk shortener",
+    "bulk cuttly shortener",
+    "shorten links",
+    "batch shortener",
+    "api shortener",
+    "token management",
+    "async processing",
+    "retry mechanism",
+    "token rotation"
+  ]
+}
